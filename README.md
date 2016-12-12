@@ -10,7 +10,7 @@ This is a simple Angular 2 website using the brand new router. It demonstrates h
 
 
 ```bash
-git clone https://github.com/simpulton/angular2-website-routes.git
+git clone https://github.com/MaximRobota/RoutesStart-Angular2-TypeScript.git
 cd angular2-website-routes
 npm i
 typings install
