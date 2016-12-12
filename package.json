@@ -37,7 +37,7 @@
     "phantomjs-prebuilt": "^2.1.7",
     "raw-loader": "^0.5.1",
     "source-map-loader": "^0.1.5",
-    "typescript": "^1.8.10",
+    "typescript": "2.0.0",
     "webpack": "^1.13.0",
     "webpack-dev-server": "^1.14.1"
   }
