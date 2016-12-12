@@ -11,7 +11,7 @@ This is a simple Angular 2 website using the brand new router. It demonstrates h
 
 ```bash
 git clone https://github.com/MaximRobota/RoutesStart-Angular2-TypeScript.git
-cd angular2-website-routes
+cd RoutesStart-Angular2-TypeScript
 npm i
 typings install
 npm start
