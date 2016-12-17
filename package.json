@@ -1,10 +1,10 @@
 {
-  "name": "fem-ng2-simple-app",
+  "name": "RoutesStart-Angular2-TypeScript",
   "version": "0.0.1",
   "license": "SEE LICENSE IN LICENSE",
   "repository": {
     "type": "git",
-    "url": "https://github.com/onehungrymind/fem-ng2-simple-app/"
+    "url": "https://github.com/MaximRobota/RoutesStart-Angular2-TypeScript/"
   },
   "scripts": {
     "start": "webpack-dev-server --inline --colors --watch --display-error-details --display-cached  --port 8080 --hot",
@@ -24,6 +24,7 @@
     "zone.js": "^0.6.12"
   },
   "devDependencies": {
+    "@types/node": "^6.0.52",
     "awesome-typescript-loader": "^0.17.0",
     "core-js": "^2.4.0",
     "jasmine-core": "^2.4.1",
@@ -37,7 +38,7 @@
     "phantomjs-prebuilt": "^2.1.7",
     "raw-loader": "^0.5.1",
     "source-map-loader": "^0.1.5",
-    "typescript": "2.0.0",
+    "typescript": "2.0.2",
     "webpack": "^1.13.0",
     "webpack-dev-server": "^1.14.1"
   }
